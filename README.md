@@ -1,6 +1,7 @@
 # Summer-Analytics-2024_IITG
 Image Generation for E-commerce: Virtual Try-On using Generative AI
 Project Overview
+
 This repository hosts the implementation of a generative AI model aimed at generating high-quality product images for e-commerce applications. The primary objective is to enable virtual try-on experiences for apparel and accessories.
 
 Use Cases
