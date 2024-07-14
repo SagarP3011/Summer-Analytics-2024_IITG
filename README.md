@@ -18,3 +18,7 @@ Reduce return rates by allowing customers to make more informed purchase decisio
 Block Diagram
 ![163922947-c1677f79-ad6f-4550-affc-7d4e80f0d247](https://github.com/user-attachments/assets/36e6fa8a-9fcc-49d7-bc28-ae4938e09843)
 
+Methodology
+![163922991-86d148c2-1a97-48a5-b4ec-d8c16819374a](https://github.com/user-attachments/assets/98c48628-4410-4136-9397-73f4ae13cb30)
+
+
